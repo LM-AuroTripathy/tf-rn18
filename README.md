@@ -1,2 +1,1 @@
-# imagewoof2-rin18
-# tf-rn18
+# imagewoof2-rn18

@@ -58,7 +58,8 @@ recipe.update_capability(
 )
 
 set_trace()
-# quant_model = setup_for_evaluation(imported_model, finetuning_method="ept", recipe=recipe)
+# ERROR
+quant_model = setup_for_evaluation(imported_model, finetuning_method="ept", recipe=recipe)
 
 model = imported_model
 
